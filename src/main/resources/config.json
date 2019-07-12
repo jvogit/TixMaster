@@ -1,0 +1,15 @@
+{
+	"token":"your token here",
+	"prefix":"!",
+	"ticketscategory":"tickets",
+	"categories": [
+		"Red",
+		"Green",
+		"Blue"
+	],
+	"ticketmasterrolename":"Ticket Master",
+	"ticketsupportrolename":"Support Member",
+	"ticketlimit":2,
+	"preventspamcreate":true,
+	"createreaction":"U+2705"
+}
